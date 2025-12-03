@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/updated--animal-behavior-analytics-platform-40611-40606/backend_fastapi"
+}
